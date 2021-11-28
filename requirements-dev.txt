@@ -1,0 +1,15 @@
+# This file contains requirements only used for development.
+# These requirements will never get deployed to production or the CI/CD builds
+
+# Code style
+# https://github.com/psf/black
+black
+# https://github.com/PyCQA/isort
+isort
+
+# Shell
+# https://github.com/ipython/ipython
+ipython
+
+# API Interaction
+httpie

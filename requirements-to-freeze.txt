@@ -1,0 +1,3 @@
+# This file contains requirements defined by developers
+# New dependency versions may change when reinstalling
+# `requirements.txt` has the frozen version for production, including dependencies
